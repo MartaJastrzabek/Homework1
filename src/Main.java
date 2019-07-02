@@ -3,8 +3,8 @@ public class Main {
 
         //Wyświetlanie komunikatu
 
-        System.out.println("To jest praca domowa nr: " + 1);
-        System.out.println();
+//        System.out.println("To jest praca domowa nr: " + 1);
+//        System.out.println();
         System.out.println("Uczę");
         System.out.println("się");
         System.out.println("programowania");
